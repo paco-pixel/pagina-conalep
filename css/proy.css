@@ -1,0 +1,16 @@
+body {
+  background:url(../imagenes/resumen.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #ffffff;
+  background-position:50%;
+}
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+  
+}
+ol{
+	margin-left: 20%;
+  margin-right: 20%;
+}
